@@ -1,0 +1,10 @@
+{
+  "files": {
+    "index.js": "a68ebace4f0df03dfa9f58862a47e48389e8e003258030529b1e1f9d933da1df",
+    "module.json": "bdcf26cad5cf2befcc4928b7de7c22e6f8c353d6ad0ba2b96c6219a0bb2be568",
+  },
+  "defs": {
+    "C_END_MOVIE": 1,
+		"S_PLAY_MOVIE": 1
+  }
+}
