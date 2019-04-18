@@ -1,6 +1,9 @@
 {
+	"disableAutoUpdate": false,
     "name": "no-cutscenes",
 	"author": "Jad",
 	"description": "No more annoying cutscenes",
-	"version": "1.0"
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/RedJad/NoCutscene/master"],
+    "supportUrl": "https://github.com/RedJad/NoCutscene/issues"
 }
